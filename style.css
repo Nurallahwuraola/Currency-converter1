@@ -1,0 +1,36 @@
+body{
+background-color:bisque;
+  height: 100vh;
+  display: flex;
+  justify-content: center ;
+  align-items: center ;
+  }
+.container{
+background-color: hwb(232 44% 9%);
+  color:aliceblue;
+  padding: 10px;
+ border-radius: 5px; 
+  text-align: center;
+  }
+.currency-container{
+padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  }
+.currency-container select{
+  outline: none;
+padding: 10px;
+  }
+.currency-container input{
+  background-color: transparent;
+color: whitesmoke ;
+  border: none;
+  font-size: px;
+  text-align: right;
+  font-size: 26px;
+  outline: none;
+  }
+.exchange-rate{
+font-size: 16px;
+  font-weight: 600;
+  }
