@@ -16,7 +16,7 @@ A simple and responsive Currency Converter that converts amounts between differe
 - Exchange Rate API
 
 ### 🔗 Live Demo
-https://nurallahwuraola.github.io/currency-converter/
+https://nurallahwuraola.github.io/Currency-converter1/
 
 ###  Author
 Nurallah - Frontend Developer
